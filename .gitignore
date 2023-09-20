@@ -1,0 +1,8 @@
+# image file
+*.jpg
+*.png
+# audio & video file
+*.mp3
+*.mp4
+# other media
+*.pdf
