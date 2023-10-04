@@ -62,6 +62,18 @@ body.member4 section a.btnView {
 	box-shadow: 5px 10px 20px rgba(160, 17, 255, 0.4);
 }
 
+/*member 5*/
+body.member5 {
+	background-color: #F5F0FF;
+}
+body.member5 section article.profile img {
+	box-shadow: 5px 15px 20px rgba(246, 162, 78, 0.2);
+}
+body.member5 section a.btnView {
+	background: linear-gradient(45deg, #ffd374, #ffc411);
+	box-shadow: 5px 10px 20px rgba(255, 184, 17, 0.4);
+}
+
 /* 상단 메뉴 영역*/
 section nav.menu {
 	width: 100%;
@@ -177,6 +189,10 @@ section nav.others a:nth-of-type(3) {
 section nav.others a:nth-of-type(4) {
 	background-color: #a794fd;
 	box-shadow: 5px 5px 10px rgba(167, 148, 253, 0.7);
+}
+section nav.others a:nth-of-type(5) {
+	background-color: #F5CA7B;
+	box-shadow: 5px 5px 10px rgba(245, 202, 123,0.7);
 }
 
 /*버튼 활성화*/
